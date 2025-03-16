@@ -1,4 +1,4 @@
-# Fe-based Amorphous Alloys ML Project
+# Fe-based Amorphous Alloys
 This repository contains machine learning models for predicting properties of Fe-based amorphous and nanocrystalline alloys.
 
 ## 📊 Data & Features
